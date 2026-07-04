@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}مقدمه}{2}{section.1}%
+\contentsline {section}{\numberline {2}بخش اول: درونیابی \lr {(Interpolation)}}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}ضوابط ریاضی استخراج‌شده}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}تحلیل نمودار درون‌یابی}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}بخش دوم: تحلیل داده‌ها \lr {(Data Analysis)}}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}نتایج و نمودارها}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}تحلیل رفتار الگوریتم‌ها}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}بخش سوم: انتگرال‌گیری عددی \lr {(Numerical Integration)}}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}مقایسه دقت روش‌ها و جدول خطاها}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}تحلیل علمی نتایج انتگرال‌گیری}{7}{subsection.4.2}%
+\contentsline {section}{\numberline {5}نتیجه‌گیری}{9}{section.5}%
